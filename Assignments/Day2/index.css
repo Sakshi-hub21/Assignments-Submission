@@ -1,0 +1,33 @@
+.container{
+    width:15%;
+    background-color:greenyellow;
+    display: flexbox;
+
+}
+
+.container_text{
+    text-align: center;
+    align-items: center;
+    color:white;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Segoe UI';
+}
+
+.container_1{
+    width:20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:gray;
+    display:flexbox;
+}
+
+.container_1_text{
+    text-align: center;
+    align-items: center;
+    color:white;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Segoe UI';
+
+}
